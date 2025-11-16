@@ -136,6 +136,6 @@ If you want to contribute:
 
 ## License
 
-This project is **MIT Licensed** — feel free to modify it, but please credit if you reuse significant parts.
+This project is (./LICENSE) — feel free to modify it, but please credit if you reuse significant parts.
 
 ---
