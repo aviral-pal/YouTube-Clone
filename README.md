@@ -136,6 +136,6 @@ If you want to contribute:
 
 ## License
 
-This project is LICENSE — feel free to modify it, but please credit if you reuse significant parts.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/aviral-pal/YouTube-Clone/blob/main/LICENSE)) file for details.
 
 ---
